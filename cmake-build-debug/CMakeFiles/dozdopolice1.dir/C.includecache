@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/a/CLionProjects/dozdopolice1/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+
